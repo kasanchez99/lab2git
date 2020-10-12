@@ -2,4 +2,10 @@ Katherine Sanchez
 Computer Science and Engineering Major
 Class of 2021 (Senior)
 Softball, hiking, piano, dog walking
-
+Courses:
+COEN174, COEN174L
+COEN177, COEN177L
+ENGR168
+ENGR173
+ELSJ22
+COEN193, COEN194
