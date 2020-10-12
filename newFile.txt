@@ -1,0 +1,3 @@
+This is the new file I am adding
+I get to choose this file to add to my GitHub repo
+then I will pull it from the command line 
